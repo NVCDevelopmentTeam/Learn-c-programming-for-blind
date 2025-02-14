@@ -33,9 +33,9 @@
 11. [Bài tập 11: Quản lý tập tin](Exercises/Exercise-11.md)
 
 ### **Bài tập lớn**
-1. Bài tập  1: Quản lý sinh viên](Projects/Project-1.md)
-2. Bài tập 2: Phần mềm quản lý thư viện](Projects/Project-2.md)
-3. Bài tập 3: Chương trình quản lý danh bạ](Projects/Project-3.md)
+1. [Bài tập  1: Quản lý sinh viên](Projects/Project-1.md)
+2. [Bài tập 2: Phần mềm quản lý thư viện](Projects/Project-2.md)
+3. [Bài tập 3: Chương trình quản lý danh bạ](Projects/Project-3.md)
 
 ## **4. VÍ DỤ MINH HỌA**
 1. [Ví dụ 1: Chương trình Hello World](Examples/Example-1.c)
@@ -53,8 +53,8 @@
 13. [Ví dụ 13: Cấu trúc dữ liệu nâng cao](Examples/Example-13.c)
 
 ## **5. PHỤ LỤC**
-- phần I. [Các hàm chuẩn trong thư viện C](Appendices/Appendix-1.md)
-- phần II. [Cấu trúc dữ liệu trong C](Appendices/Appendix-2.md)
+- [phần I. Các hàm chuẩn trong thư viện C](Appendices/Appendix-1.md)
+- [phần II. Cấu trúc dữ liệu trong C](Appendices/Appendix-2.md)
 - [Phần III: Thuật toán cơ bản](Appendices/Appendix-3.md)
 - [Phần IV: Thuật ngữ lập trình](Appendices/Appendix-4.md)
 
