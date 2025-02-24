@@ -1,0 +1,5 @@
+  root: ./
+
+  structure:
+    readme: Lessons/Lesson-0.md"
+    summary: SUMMARY.md
