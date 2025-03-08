@@ -59,4 +59,4 @@
 - [Phần IV: Thuật ngữ lập trình](Appendices/Appendix-4.md)
 
 ## **6. THÔNG TIN TÀI LIỆU**
-- [](info.md)
+- [thông tin tài liệu](info.md)

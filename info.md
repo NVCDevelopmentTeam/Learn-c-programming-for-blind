@@ -1,4 +1,4 @@
-## **Thông tin tài liệu**
+# **Thông tin tài liệu**
 
 📅 **Ngày cập nhật:** 20 tháng 2 năm 2022  
 👨‍💻 **Nhóm biên soạn tài liệu học lập trình cho người khiếm thị**  
