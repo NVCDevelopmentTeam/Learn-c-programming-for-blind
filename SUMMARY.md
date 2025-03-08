@@ -59,10 +59,4 @@
 - [Phần IV: Thuật ngữ lập trình](Appendices/Appendix-4.md)
 
 ## **6. THÔNG TIN TÀI LIỆU**
-📅 **Ngày cập nhật:** 20 tháng 2 năm 2022  
-👨‍💻 **Nhóm biên soạn tài liệu học IT cho người khiếm thị**  
-✍ **Biên soạn:** Coding Nguyễn  
-🔍 **Tham vấn góp ý:** Nguyễn Hoàng Giang  
-🛠 **Chỉnh sửa:** Ngọc Linh, Hải Nguyễn  
-📧 **Email liên hệ:** Banlinhdanong5004@gmail.com
-
+- [](info.md)
