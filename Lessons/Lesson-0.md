@@ -16,4 +16,4 @@ Nếu bạn có bất kỳ góp ý hay muốn đóng góp nội dung, xin vui l�
 
 Hy vọng rằng trong tương lai không xa, người khiếm thị tại Việt Nam sẽ có thêm nhiều tài liệu học lập trình chất lượng, không chỉ dành riêng cho ngôn ngữ C mà còn mở rộng sang nhiều ngôn ngữ khác. 
 
-**Nhóm biên soạn tài liệu học IT cho người khiếm thị**
+**Nhóm biên soạn tài liệu học Lập trình cho người khiếm thị**
